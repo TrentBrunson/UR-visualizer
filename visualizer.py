@@ -1,5 +1,5 @@
 # %%
-from dataimporter import DataImportOutput
+from datapipe import DataImportOutput
 import os
 import numpy as np
 import pandas as pd
